@@ -1,12 +1,10 @@
 ### Hi there, I'm Jacqueline Ferreira 👋
 
 - 🔭 I currently work with web development.
-- 🦗 I'm currently learning Node.JS and React.
 - 👯 I'm looking to collaborate on JavaScript, Node.JS, React and React Native projects.
 - 🤔 I'm looking for help with social impact projects.
 - 🧠 Faculty of Software Engineering.
-- 💬 Ask me about everything.
-- ⚡ Fun fact: I a "gnome" haha.
+
 
 
 
