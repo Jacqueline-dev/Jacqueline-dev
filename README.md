@@ -1,8 +1,6 @@
 ### Hi there, I'm Jacqueline Ferreira 👋
 
-- 🔭 I currently work with web development.
-- 👯 I'm looking to collaborate on JavaScript, Node.JS, React and React Native projects.
-- 🤔 I'm looking for help with social impact projects.
+- 🔭 Python Developer and Data Engineer
 - 🧠 Faculty of Software Engineering.
 
 
