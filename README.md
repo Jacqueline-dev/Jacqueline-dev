@@ -1,4 +1,4 @@
-### Hi there, I'm Jacqueline Ferreira 👋
+### Olá, seja bem-vindo(a)! 👋
 
 <a href="https://github.com/Jacqueline-dev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jacqueline-dev&show_icons=true&theme=jolly" />
