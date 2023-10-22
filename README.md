@@ -7,8 +7,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacqueline-dev&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=jolly" />
 </a>
 
-
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Jacque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Jacque-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -29,19 +27,6 @@
       <img align="center" alt="Jacque-SQlAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" >
        <img align="center" alt="Jacque-SQlLite" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" >
           
-          
-          
-          
-        
-    
-
-          
-          
-  
-        
-          
-         
- 
 </div>
   
   ##
