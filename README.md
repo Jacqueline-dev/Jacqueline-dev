@@ -20,8 +20,7 @@
     <img align="center" alt="Jacque-Pandas" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" >
   <img align="center" alt="Jacque-Numpy" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" >
     <img align="center" alt="Jacque-Azure" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-    <img align="center" alt="Jacque-Amazon" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-    <img align="center" alt="Jacque-Mysql" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
+     <img align="center" alt="Jacque-Mysql" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
 <img align="center" alt="Jacque-SQLServe" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" >
     <img align="center" alt="Jacque-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
       <img align="center" alt="Jacque-SQlAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" >
