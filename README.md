@@ -1,4 +1,5 @@
-### Olá, seja bem-vindo(a)! 👋
+
+### Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <a href="https://github.com/Jacqueline-dev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jacqueline-dev&show_icons=true&theme=jolly" />
@@ -8,23 +9,12 @@
 </a>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jacque-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Jacque-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Jacque-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Jacque-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Jacque-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jacque-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" >
-  <img align="center" alt="Jacque-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="Jacque-Django" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
-   <img align="center" alt="Jacque-Flask" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" >
-    <img align="center" alt="Jacque-Pandas" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" >
-  <img align="center" alt="Jacque-Numpy" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" >
-    <img align="center" alt="Jacque-Azure" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-     <img align="center" alt="Jacque-Mysql" height="30" width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
-<img align="center" alt="Jacque-SQLServe" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" >
-    <img align="center" alt="Jacque-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" >
-      <img align="center" alt="Jacque-SQlAlchemy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" >
-       <img align="center" alt="Jacque-SQlLite" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" >
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,scala,r,django,flask,azure,sklearn,tensorflow,mysql,sqlite,postgres,mongodb,selenium,docker,kafka" />
+  </a>
+</p>
+       
           
 </div>
   
