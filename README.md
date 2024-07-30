@@ -9,18 +9,16 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jacqueline-dev&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=jolly" />
 </a>
 
+
+
 <div style="display: inline_block"><br>
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,scala,r,django,flask,azure,sklearn,tensorflow,mysql,sqlite,postgres,mongodb,selenium,docker,kafka" />
-  </a>
+
 </p>
-       
+     
           
 </div>
   
-
- 
 <div> 
  <a href="https://www.linkedin.com/in/jacqueline-ferreira-a152761a5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:codejacque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
