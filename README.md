@@ -1,6 +1,6 @@
 
 ### Hi there, Welcome! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-I'm Jacqueline, a Data Engineer with a passion for turning bytes into insights, with a focus on Azure services and ETL/ELT processes, I build robust data pipelines that empower intelligent decision making.
+
 
 <a href="https://github.com/Jacqueline-dev/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Jacqueline-dev&show_icons=true&theme=jolly" />
